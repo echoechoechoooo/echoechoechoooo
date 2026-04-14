@@ -26,7 +26,7 @@
 <p align="center">✧ <i>𝐒𝐢𝐥𝐞𝐧𝐭 𝐇𝐢𝐥𝐥." ✦</i></p>
 <p align="center">────── ✦ ──────</p>
 <p align="center">
-  <img width="903" height="162" alt="ыва" src="https://github.com/user-attachments/assets/279357ec-b372-4474-b9e3-4b80a7ce86d2" />
+  <img width="600" height="162" alt="ыва" src="https://github.com/user-attachments/assets/279357ec-b372-4474-b9e3-4b80a7ce86d2" />
 </p>
 <p align="center">
   ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
