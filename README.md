@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/hmJ5YMo.jpeg" width="600"/>
+  <img src="" width="600"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="ТВОЯ_КАРТИНКА_2" width="600"/>
+  <img src="" width="600"/>
 </p>
 
 <p align="center">✦ ───────── ✦</p>
