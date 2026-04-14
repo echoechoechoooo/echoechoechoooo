@@ -25,8 +25,7 @@
 <p align="center"><i>𝐈 𝐬𝐞𝐞 𝐭𝐡𝐚𝐭 𝐭𝐨𝐰𝐧.</i></p>
 <p align="center">✧ <i>𝐒𝐢𝐥𝐞𝐧𝐭 𝐇𝐢𝐥𝐥." ✦</i></p>
 <p align="center">────── ✦ ──────</p>
-<img width="915" height="162" alt="ыва" src="https://github.com/user-attachments/assets/a8a26088-614c-45be-854b-df0eed63ace6" />
-
+<img width="903" height="162" alt="ыва" src="https://github.com/user-attachments/assets/d9002311-6dd6-4421-b303-c4f89925cb3f" />
 
 
 <p align="center">
