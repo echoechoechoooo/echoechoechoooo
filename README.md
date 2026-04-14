@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="" width="600"/>
+ 
 </p>
 
 <p align="center">✦ ───────── ✦</p>
