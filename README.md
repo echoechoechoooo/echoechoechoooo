@@ -1,7 +1,7 @@
 <img width="2633" height="797" alt="картк" src="https://github.com/user-attachments/assets/a0f8e9ee-efe7-4b16-832d-d96f645e00b7" />
 
 <p align="center">
-  <img src="" width="600"/>
+
 </p>
 
 <p align="center">
