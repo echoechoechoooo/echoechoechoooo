@@ -26,9 +26,6 @@
 
 <p align="center">────── ✦ ──────</p>
 
-<p align="center">✧ 𝐤𝐢𝐧𝐝𝐚 𝐪𝐮𝐢𝐞𝐭, 𝐤𝐢𝐧𝐝𝐚 𝐜𝐡𝐚𝐨𝐭𝐢𝐜</p>
-<p align="center">✧ 𝐚𝐥𝐰𝐚𝐲𝐬 𝐢𝐧 𝐦𝐲 𝐡𝐞𝐚𝐝</p>
-<p align="center">✧ 𝐫𝐚𝐫𝐞𝐥𝐲 𝐡𝐞𝐫𝐞</p>
 
 <p align="center">
   ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
