@@ -45,5 +45,5 @@
 
 <p align="center">✦ ─────── ✦</p>
 <p align="center">
-<img width="50" height="313" alt="ыва" src="https://github.com/user-attachments/assets/b47d8f59-8f99-4562-8bb3-a2aba27c890c" />
+<img width="100" height="313" alt="ыва" src="https://github.com/user-attachments/assets/b8104b47-349f-4b96-b47c-bd89cb252514" />
 </p>
