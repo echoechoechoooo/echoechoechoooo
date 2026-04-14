@@ -10,7 +10,7 @@
 
 <p align="center"><b>✦ ... ✦</b></p>
 
-<p align="center">✧ 𝟏𝟔 𝐲.𝐨.</p>
+<p align="center">✧ 𝟏𝟔 𝐲.𝐨. ✧</p>
 <p align="center">✧ 𝐥𝐨𝐬𝐭 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐠</p>
 
 <p align="center">────── ✦ ──────</p>
