@@ -1,4 +1,4 @@
-<img width="915" height="162" alt="ыва" src="https://github.com/user-attachments/assets/144ae995-b5ec-4982-9304-fa822cc93f95" />
+
 <img width="2633" height="797" alt="картк" src="https://github.com/user-attachments/assets/a0f8e9ee-efe7-4b16-832d-d96f645e00b7" />
 
 <p align="center">
@@ -25,7 +25,7 @@
 <p align="center"><i>𝐈 𝐬𝐞𝐞 𝐭𝐡𝐚𝐭 𝐭𝐨𝐰𝐧.</i></p>
 <p align="center">✧ <i>𝐒𝐢𝐥𝐞𝐧𝐭 𝐇𝐢𝐥𝐥." ✦</i></p>
 <p align="center">────── ✦ ──────</p>
-<img width="915" height="162" alt="ыва" src="https://github.com/user-attachments/assets/65b109e6-b494-48a3-9a34-1096042c1085" />
+<img width="915" height="162" alt="ыва" src="https://github.com/user-attachments/assets/a8a26088-614c-45be-854b-df0eed63ace6" />
 
 
 
