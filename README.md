@@ -1,4 +1,7 @@
 
+<p align="center">
+  ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+</p>
 <img width="2633" height="797" alt="картк" src="https://github.com/user-attachments/assets/a0f8e9ee-efe7-4b16-832d-d96f645e00b7" />
 
 <p align="center">
